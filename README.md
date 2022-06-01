@@ -1,5 +1,5 @@
 # Welcome to Artur's Poatek Internship Challenge!
-Hi! Here is a little summary of my challenge. For the number one questions please run the code in your machine to get the answer. For the second question the **answer** and the **code** are in the [Question 2](#question-2) of this READme.md. Hope to see you soon!
+Hi! Here is a little summary of my challenge. For the number one questions please run the code in your machine to get the answer. For the second question the **answer** and the **code** are in the [Question 2](#question-2) section of this READme.md. Hope to see you soon!
 
 ## Programming Languages
 
