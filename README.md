@@ -9,7 +9,7 @@ Hi! Here is a little summary of my challenge. For the number one questions pleas
  
 ## How to Run 
 
- -  Question 1 - Run with [Node.js](nodejs.org) using the IDE of preference.(node < filename >)
+ -  Question 1 - Run with [Node.js](nodejs.org) using the IDE of preference. (node < filename >)
  -  Question 2 - Connect and run the code with [DataGrip](https://www.jetbrains.com/datagrip/)
  
   
